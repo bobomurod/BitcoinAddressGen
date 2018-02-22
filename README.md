@@ -1,0 +1,2 @@
+# BitcoinAddressGen
+Offline address generator
